@@ -2,6 +2,20 @@
     text-align: center;
 }
 
+/* .info{
+    border-top: solid 1px lightgray;
+    margin-top: 10vh;
+    padding-top: 5vh;
+} */
+
+.line{
+    content: "";
+    background: lightgray;
+    display: block;
+    width:50vw;
+    height: 1px;
+    margin: 5vh 25vw 5vh 25vw;
+}
 
 /* first setion */
 .first-head h1{
