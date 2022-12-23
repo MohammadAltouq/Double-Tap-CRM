@@ -1,0 +1,60 @@
+/* styling for navbar */
+.navbar-brand img{
+    height: 4vh;
+}
+
+.navbar-brand{
+    margin-left: 10vw;
+}
+
+.form-inline{
+    margin-right: 10vw;
+}
+
+.form-inline button{
+    margin-left: 1vw;
+}
+
+.signin{
+    color: #0850F8;
+    border-color: #0850F8;
+}
+
+.tryit{
+    color: white;
+    background-color: #0850F8;
+    border-color: #0850F8;
+}
+
+.signin:hover{
+    color: white;
+    border-color: gray;
+    background-color: gray;
+}
+
+.tryit:hover{
+    color: white;
+    background-color: gray;
+    border-color: gray;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar li a{
+    color: black;
+}
+
+.navbar li a:hover{
+    color: #0850F8;
+}
+
+.navbar li{
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+/* styling for hero section */
+
+/* styling for footer */
