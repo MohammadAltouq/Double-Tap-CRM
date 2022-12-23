@@ -27,6 +27,10 @@
     width: 5vw;
 }
 
+.icon:hover{
+    background-color: #0850F8;
+}
+
 /* second section */
 .second{
     margin-top: 10vh;
@@ -126,8 +130,8 @@
 
 .col-3 button{
     background-color: white;
-    color: gray;
-    border: solid 3px gray;
+    color: black;
+    border: solid 3px black;
     border-radius: 5%;
     padding: .5vh 1vh .5vh 1vh;
 }
