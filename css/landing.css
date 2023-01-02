@@ -155,62 +155,71 @@ button:hover{
         justify-content: space-around;
             }
 
-    footer {
-        align-content: center;
-        text-align: center;
-    background-color: var(--clr-primary-400);
-    padding: 2rem;
-    color: var(--clr-neutral-100);
-    }
-
-    .footer__h2 {
-        margin-bottom: 1rem;
+            .footer {
+                background-color: rgb(22, 72, 255);
+                max-width: 2000px;
+                height: 465px;
+                padding-left: 116px;
+                padding-top: 78px;
+                justify-content: center;
+                justify-content: space-around;
+                    }
         
-    }
-    
-    .footer__p {
-    
-        font-size: 0.8125rem;
-        letter-spacing: 0.02ch;
-    
-        margin-bottom: 0.8125rem;
-    
-    }
-    
-    .footer__btn-flex {
-        display: flex;
-        justify-content: center;
-        gap: 3rem;
-        margin-bottom: 2rem;
-    }
-    
-    
-    .perks-flex {
-        display: flex;
-        flex-direction: row;
-        gap: 1rem;
-    }
-
-    
-    
-    .perk {
-        display: inline-block;
-    }
-    
-    .perks-flex {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    .perk {
-        font-size: 0.75rem;
-    }
-    
-    @media (max-width: 500px) {
-        .graphic-section .col-7 {
-            width: 90%;
-            padding: 2rem 1rem 4rem;
-        }
-    }
-    
+            footer {
+                align-content: center;
+                text-align: center;
+            background-color: var(--clr-primary-400);
+            padding: 2rem;
+            color: var(--clr-neutral-100);
+            }
+        
+            .footer__h2 {
+                margin-bottom: 1rem;
+                
+            }
+            
+            .footer__p {
+            
+                font-size: 0.8125rem;
+                letter-spacing: 0.02ch;
+            
+                margin-bottom: 0.8125rem;
+            
+            }
+            
+            .footer__btn-flex {
+                display: flex;
+                justify-content: center;
+                gap: 3rem;
+                margin-bottom: 2rem;
+            }
+            
+            
+            .perks-flex {
+                display: flex;
+                flex-direction: row;
+                gap: 1rem;
+            }
+        
+            
+            
+            .perk {
+                display: inline-block;
+            }
+            
+            .perks-flex {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .perk {
+                font-size: 0.75rem;
+            }
+            
+            /* @media (max-width: 500px) {
+                .graphic-section .col-7 {
+                    width: 300%;
+                    padding: 2rem 1rem 4rem;
+                }
+            } */
