@@ -2,12 +2,6 @@
     text-align: center;
 }
 
-/* .info{
-    border-top: solid 1px lightgray;
-    margin-top: 10vh;
-    padding-top: 5vh;
-} */
-
 .line{
     content: "";
     background: lightgray;
