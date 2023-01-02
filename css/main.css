@@ -58,3 +58,32 @@
 /* styling for hero section */
 
 /* styling for footer */
+.footer{
+    margin-top: 10vh;
+    padding-top: 5vh;
+    color: white;
+}
+
+.footer svg{
+    height: 2vh;
+    margin-right: .5vw;
+}
+
+.footer .bullet{
+    font-size: xx-large;
+}
+
+.footer__sign-up{
+    background-color: #7ecf27;
+    border-color: #7ecf27;
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+}
+
+.footer__chat{
+    background-color: white;
+    border: 1px solid white;
+    color: #0850F8;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
